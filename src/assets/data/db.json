@@ -1,0 +1,30 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "samsung",
+      "category_id": 2,
+      "description": "product",
+      "product_img":"img_path",
+      "price": 100,
+      "is_available": true,
+      "rating": 4,
+      "reviews": 120,
+      "vendor_name": "Seller -1",
+      "warranty": 100
+    },
+    {
+      "id": 2,
+      "name": "appele",
+      "category_id": 2,
+      "description": "product",
+      "product_img":"img_path",
+      "price": 100,
+      "is_available": true,
+      "rating": 4,
+      "reviews": 120,
+      "vendor_name": "Seller -1",
+      "warranty": 100
+    }
+  ]
+}
